@@ -1,4 +1,4 @@
-## 👋 :bulb::boom: :pencil2: :globe_with_meridians: :tada: :sparkles:
+# :egg:
 
 ### recently
 :alien: Learn something new now!
