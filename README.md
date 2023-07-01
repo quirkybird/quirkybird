@@ -1,6 +1,6 @@
-## quirkybird 👋 
+## 👋 :bulb::boom: :pencil2: :globe_with_meridians: :tada: :sparkles:
 
-### About Me
+### recently
 :alien: Learn something new now!
 
 <p align="center">
