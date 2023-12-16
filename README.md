@@ -1,4 +1,4 @@
-# :egg:
+# :egg: 前端开发爱好者
 ![](https://komarev.com/ghpvc/?username=quirkybird)
 
 INFP-T
