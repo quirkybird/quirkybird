@@ -2,7 +2,6 @@
 ![](https://komarev.com/ghpvc/?username=quirkybird)
 
 INFP-T
-正在前端实习中...
 ### recently
 :alien: Learn something new now!
 
