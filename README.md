@@ -2,8 +2,7 @@
 ![](https://komarev.com/ghpvc/?username=quirkybird)
 
 INFP-T
-
-新年快乐！
+最近很迷茫，像是一个机器人
 ### recently
 :alien: Learn something new now!
 
