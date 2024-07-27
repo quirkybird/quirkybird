@@ -1,8 +1,8 @@
 # :egg: 前端开发爱好者
 ![](https://komarev.com/ghpvc/?username=quirkybird)
 
-INFP-T
-最近很迷茫，像是一个机器人
+INFP-T  
+实习准备离职
 ### recently
 :alien: Learn something new now!
 
