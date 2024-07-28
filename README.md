@@ -4,7 +4,8 @@
 INFP-T  
 实习准备离职
 ### recently
-:alien: Learn something new now!
+:alien: Learn something new now!  
+keep pure
 
 <p align="center">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=quirkybird&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
