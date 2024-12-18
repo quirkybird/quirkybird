@@ -2,7 +2,7 @@
 ![](https://komarev.com/ghpvc/?username=quirkybird)
 
 INFP-T  
-最近在做一个P2P的文件传输项目
+
 ### recentl
 :alien: Learn something new now!  
 keep pure
